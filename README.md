@@ -40,7 +40,7 @@ Salon 111 del Instituto de Física, martes de 10 a 13.
 Es requisito *indispensable* para entrar al examen final (presentación del
 proyecto final) tener entregadas *y aceptadas* al menos 75% de las tareas. Las
 tareas se enviarán como [pull
-request](https://help.github.com/articles/using-pull-requests/) por GitHub. A
+request](https://help.github.com/articles/using-pull-requests/) por GitHub. A partir de que se de la tarea, se tiene una semana para presentarla con opcion de enviar una version corregida a la segunda semana. Si se envía la segunda semana, no hay dicha opcion. A partir de la tercera semana, no se aceptan tareas. A
 su debido tiempo, deben pasar los tests de CI Travis. El tiempo máximo de
 entrega de cada tarea es de 2 semanas. Las tareas deben ponerse en el
 directorio "tareas" y deben tener el formato "T(numero)(nombre).extension".
